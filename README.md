@@ -2,4 +2,5 @@
 A story being edited completely offline with git commands. Yep, am being totally weird 
 
 
-My Name is Mohammad Shahebaz. and I am mad
+My Name is Mohammad Shahebaz. and I am mad. 
+Her name is Sam
